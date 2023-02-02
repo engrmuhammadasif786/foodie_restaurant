@@ -1,0 +1,1 @@
+[10-Mar-2022 12:02:28 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/customer/www/foodierestaurant.siswebapp.com/app/Http/Controllers/UserController.php on line 12
