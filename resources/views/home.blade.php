@@ -690,8 +690,8 @@ db.collection('restaurant_orders').where('vendorID',"==",vendorId).get().then(
                     labels: labels,
                     datasets: [
                         {
-                            backgroundColor: '#007bff',
-                            borderColor: '#007bff',
+                            backgroundColor: '#c4590e',
+                            borderColor: '#c4590e',
                             data: data
                         }
                     ]

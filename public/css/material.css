@@ -560,8 +560,8 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::after {
   border-bottom: 2px solid #009688; }
 
 [type="checkbox"]:checked.chk-col-green + label:before {
-  border-right: 2px solid #26c6da;
-  border-bottom: 2px solid #26c6da; }
+  border-right: 2px solid #c4590e;
+  border-bottom: 2px solid #c4590e; }
 
 [type="checkbox"]:checked.chk-col-light-green + label:before {
   border-right: 2px solid #8BC34A;
@@ -656,8 +656,8 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::after {
   background-color: #009688; }
 
 [type="checkbox"].filled-in:checked.chk-col-green + label:after {
-  border: 2px solid #26c6da;
-  background-color: #26c6da; }
+  border: 2px solid #c4590e;
+  background-color: #c4590e; }
 
 [type="checkbox"].filled-in:checked.chk-col-light-green + label:after {
   border: 2px solid #8BC34A;
@@ -770,8 +770,8 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::after {
   animation: ripple 0.2s linear forwards; }
 
 [type="radio"].radio-col-green:checked + label:after {
-  background-color: #26c6da;
-  border-color: #26c6da;
+  background-color: #c4590e;
+  border-color: #c4590e;
   -webkit-animation: ripple 0.2s linear forwards;
   animation: ripple 0.2s linear forwards; }
 
@@ -941,13 +941,13 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::after {
   animation: ripple 0.2s linear forwards; }
 
 [type="radio"].with-gap.radio-col-green:checked + label:before {
-  border: 2px solid #26c6da;
+  border: 2px solid #c4590e;
   -webkit-animation: ripple 0.2s linear forwards;
   animation: ripple 0.2s linear forwards; }
 
 [type="radio"].with-gap.radio-col-green:checked + label:after {
-  background-color: #26c6da;
-  border: 2px solid #26c6da;
+  background-color: #c4590e;
+  border: 2px solid #c4590e;
   -webkit-animation: ripple 0.2s linear forwards;
   animation: ripple 0.2s linear forwards; }
 
@@ -1146,7 +1146,7 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::after {
   .switch label input[type=checkbox]:checked + .lever.switch-col-green {
     background-color: rgba(38, 198, 218, 0.5); }
     .switch label input[type=checkbox]:checked + .lever.switch-col-green:after {
-      background-color: #26c6da; }
+      background-color: #c4590e; }
   .switch label input[type=checkbox]:checked:not(:disabled) ~ .lever.switch-col-light-green:active:after {
     -webkit-box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.4), 0 0 0 15px rgba(139, 195, 74, 0.1);
     box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.4), 0 0 0 15px rgba(139, 195, 74, 0.1); }

@@ -67,7 +67,7 @@ $(function () {
           //or hide: ['data1', 'data2']
         },
         color: {
-              pattern: ['#eceff1', '#745af2', '#26c6da', '#1e88e5']
+              pattern: ['#eceff1', '#745af2', '#c4590e', '#1e88e5']
         }
     });
  
@@ -83,11 +83,11 @@ $(function () {
             type: 'line',
             width: '100%',
             height: '50',
-            lineColor: '#26c6da',
-            fillColor: '#26c6da',
-            maxSpotColor: '#26c6da',
+            lineColor: '#c4590e',
+            fillColor: '#c4590e',
+            maxSpotColor: '#c4590e',
             highlightLineColor: 'rgba(0, 0, 0, 0.2)',
-            highlightSpotColor: '#26c6da'
+            highlightSpotColor: '#c4590e'
         });
         $("#spark2").sparkline([0,2,8,6,8,5,6,4,8,6,6,2 ], {
             type: 'line',

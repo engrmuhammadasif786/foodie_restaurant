@@ -38,7 +38,7 @@
 .ct-animation-chart .ct-series-c .ct-line,
 .ct-animation-chart .ct-series-c .ct-point,
 .ct-svg-chart .ct-series-c .ct-line {
-    stroke: #26c6da;
+    stroke: #c4590e;
 }
 
 .ct-gauge-chart .ct-series-d .ct-slice-donut,
@@ -71,14 +71,14 @@
 }
 .andvios .ct-series-a .ct-point, .andvios .ct-series-b .ct-point{
     stroke-width:3px;
-    stroke:#26c6da;
+    stroke:#c4590e;
 }
 .andvios .ct-series-a .ct-area{
     fill:#1eacbe;
     fill-opacity:0.3;
 }
 .andvios .ct-series-b .ct-area{
-    fill:#26c6da;
+    fill:#c4590e;
     fill-opacity:0.7;
 }
 /*Bandwidth data usege*/
@@ -97,7 +97,7 @@
      stroke-width:3px;
 }
 .download-state .ct-series-b .ct-bar{
-    stroke:#26c6da;
+    stroke:#c4590e;
 }
 .download-state .ct-series-a .ct-bar{
     stroke:#7460ee;
